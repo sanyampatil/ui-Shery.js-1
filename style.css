@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body,html{
+    width: 100%;
+    height: 100vh;
+
+}
+#home{
+
+}
+.back-main{
+    width: 100%;
+    height: 100vh;
+    /* background-color: blue  ; */
+    background-image: linear-gradient(to bottom right,blue, red);
+
+}
+.cover-main{
+    width: 90%;
+    height: 90vh;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    
+
+    background-color: #fff;
+}
+
+.back-main{
+}
